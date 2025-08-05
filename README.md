@@ -18,6 +18,7 @@ Saved results in scan_results.txt
 
 # sample output
 
+![WhatsApp Image 2025-08-05 at 13 51 31_b25a252f](https://github.com/user-attachments/assets/54274501-7791-46e5-8f9f-4ca5568a77f4)
 
 
 # Key Learnings
