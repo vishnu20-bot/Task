@@ -14,7 +14,8 @@ Ran TCP SYN scan: nmap -sS 192.168.1.0/24
 Collected data on live hosts and open ports.
 
 
-Key Learnings
+# Key Learnings
+
 Basics of port scanning and network enumeration.
 Understanding service exposure and open port risks.
 
